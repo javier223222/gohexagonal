@@ -22,7 +22,7 @@ vendor/
 
 # Configuration files
 .env
-.env.*
+
 
 # IDE/editor specific files
 .vscode/
